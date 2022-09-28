@@ -1,4 +1,4 @@
-Dashboard
+Preferits
 =====
 
 .. _installation:
