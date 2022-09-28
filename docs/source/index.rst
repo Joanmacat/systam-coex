@@ -1,22 +1,21 @@
-Benvingut a la documentació de Symtach!
+Benvingut a la documentació de COEX Systam 5.0!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**COEX Systam 5.0** és un entorn de ticketing i gestió de tasques per al Centre de Conservació i Explotació de Carreteres d'Andorra.
+El següent document pretén recollir tots els components de SYSTAM per a la seva reproducció i consulta.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+//Check out the :doc:`usage` section for further information, including
+//how to :ref:`installation` the project.
 
 .. note::
 
    Aquest projecte està en desenvolupament.
 
-Contents
+Continguts
 --------
 
 .. toctree::
 
-   usage
-   api
+   Dashboard
+   Serveis i Actius
+   Preferits
