@@ -17,5 +17,8 @@ Continguts
 .. toctree::
 
    Dashboard
+   Administracio
    Serveis i Actius
+   Monitoritzacio
+   Ticketing
    Preferits
