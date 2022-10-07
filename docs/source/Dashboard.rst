@@ -12,6 +12,8 @@ El **DASHBOARD** és tracta d'un panell visor que permet la visualització d'inf
 Imatges
 ----------------
 
+![alt text](https://www.coex.ad/wp-content/uploads/2020/09/coex_logo-1024x365.jpg)
+
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
 
