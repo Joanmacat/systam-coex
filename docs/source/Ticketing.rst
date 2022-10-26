@@ -32,3 +32,18 @@ A més a més cada tíquet permet visualitzar les següents columnes:
 - **Origen de la tasca**
 - **Fitxers adjunts**: permet adjuntar fitxers com fotografies i documents importants per a la tasca.
 - **Ubicació**: Indica la ubicació on s'ha dut a terme la tasca.
+
+Gestió de tíquets
+------------
+En aquesta secció podrem gestionar tots els tíquets amb la possibilitat de crear-los i modificar-los. És important remarcar que els tíquets no es poden eliminar, només tancar o cancelar.
+
+Per tant, el primer que farem serà obrir un nou tíquet. Per a fer-ho haurem de polsar el botó "**+**" per afegir un nou tíquet i s'obrirà una nova finestra.
+
+Els tíquets necessiten un procediment. El procediment normal requereix que el tíquet s'obri abans de realitzar la tasca i s'empleni la informació següent:
+[FOTO]
+
+- **Usuari sol·licitant**: L'usuari que sol·licita el tíquet. S'emplena automàticament amb el teu usuari.
+- **Servei actiu**: Ens permet seleccionar l'actiu, en aquest cas la carretera, vehicle o el que s'hagi utilitzat
+
+
+
