@@ -3,28 +3,52 @@ Ticketing
 
 .. _Overview:
 
-Què és el Dashboard?
+Què és el ticketing?
 ------------
 
-El **DASHBOARD** és tracta d'un panell visor que permet la visualització d'informació molt variada. És possible veure'n gràfics i resums sobre l'activitat actual en temps real. Permet veure totes les incidències i preventius dels VIALS i de TALLER. És personalitzable, tot i així s'ha d'activar en funció de l'usuari que en fa ús. Cada usuari tindrà accés a certs tipus de gràfics de la seva secció.
+En aquesta secció podrem veure tota la gestió de tíquets. Podrem crear, modificar i/o editar tíquets a part de reobrir-ne.
 
+Els tíquets es poden distribuir amb **vuit estats diferents**:
+- Oberts
+- No assignats
+- En curs
+- Solucionats
+- No solucionables
+- Tancats
+- Cancel·lats
+- Reoberts
 
-Imatges
-----------------
+A més a més cada tíquet permet visualitzar les següents columnes:
+- **CI**: Identificador del tíquet. Aquest identificador també s'utilitza per a indentificar serveis i actius. És un identificador universal per als actius i serveis del COEX. Entre d'altres, aquí trobarem els més importants.
+- **Tipus**: Si es tracta d'una incidència, un manteniment, entre altres que trobarem:
+-- Avería mecànica
+-- Actuació de conservació extraordinària
+-- Actuació de conservació ordinària
+-- Incidència mecànica
+-- Incidència vial
+-- Manteniment de vehicles
+-- Millora de vials
+-- Peticions mecàniques
+-- Peticions de vials
+-- Revisions mecàniques
+-- Tasques internes
+-- Tasques de viabilitat hivernal
+- **Data de sol·licitud del tíquet**
+- **Estat del tíquet**
+- **Descripció del tíquet**
+- **Descripció servei/actiu**
+- **Sol·licitant**
+- **Nom de l'Operari que ha obert el tíquet**
+- **Origen de la tasca**
+-- App Direct
+-- App Tasks
+-- Contracte
+-- Correu
+-- Manual
+-- Pla d'acció
+-- Reserva
+-- Rfcode
+- **Fitxers adjunts**: permet adjuntar fitxers com fotografies i documents importants per a la tasca.
+- **Ubicació**: Indica la ubicació on s'ha dut a terme la tasca.
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+[FOTO]
