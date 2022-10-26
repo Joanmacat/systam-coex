@@ -9,30 +9,20 @@ Què és el ticketing?
 En aquesta secció podrem veure tota la gestió de tíquets. Podrem crear, modificar i/o editar tíquets a part de reobrir-ne.
 
 Els tíquets es poden distribuir amb **vuit estats diferents**:
-- Oberts
-- No assignats
-- En curs
-- Solucionats
-- No solucionables
-- Tancats
-- Cancel·lats
-- Reoberts
+
+- **Oberts**
+- **No assignats**
+- **En curs**
+- **Solucionats**
+- **No solucionables**
+- **Tancats**
+- **Cancel·lats**
+- **Reoberts**
 
 A més a més cada tíquet permet visualitzar les següents columnes:
+
 - **CI**: Identificador del tíquet. Aquest identificador també s'utilitza per a indentificar serveis i actius. És un identificador universal per als actius i serveis del COEX. Entre d'altres, aquí trobarem els més importants.
-- **Tipus**: Si es tracta d'una incidència, un manteniment, entre altres que trobarem:
--- Avería mecànica
--- Actuació de conservació extraordinària
--- Actuació de conservació ordinària
--- Incidència mecànica
--- Incidència vial
--- Manteniment de vehicles
--- Millora de vials
--- Peticions mecàniques
--- Peticions de vials
--- Revisions mecàniques
--- Tasques internes
--- Tasques de viabilitat hivernal
+- **Tipus**: Si es tracta d'una incidència, un manteniment, entre altres que trobarem.
 - **Data de sol·licitud del tíquet**
 - **Estat del tíquet**
 - **Descripció del tíquet**
@@ -40,15 +30,5 @@ A més a més cada tíquet permet visualitzar les següents columnes:
 - **Sol·licitant**
 - **Nom de l'Operari que ha obert el tíquet**
 - **Origen de la tasca**
--- App Direct
--- App Tasks
--- Contracte
--- Correu
--- Manual
--- Pla d'acció
--- Reserva
--- Rfcode
 - **Fitxers adjunts**: permet adjuntar fitxers com fotografies i documents importants per a la tasca.
 - **Ubicació**: Indica la ubicació on s'ha dut a terme la tasca.
-
-[FOTO]
