@@ -33,7 +33,7 @@ A més a més cada tíquet permet visualitzar les següents columnes:
 - **Fitxers adjunts**: permet adjuntar fitxers com fotografies i documents importants per a la tasca.
 - **Ubicació**: Indica la ubicació on s'ha dut a terme la tasca.
 
-Dades Generals
+Dades generals
 ------------
 En aquesta secció podrem gestionar tots els tíquets amb la possibilitat de crear-los i modificar-los. És important remarcar que els tíquets no es poden eliminar, només tancar o cancelar.
 
@@ -57,7 +57,7 @@ Els tíquets necessiten un procediment. El procediment normal requereix que el t
 - **Persona de contacte**: Indica la persona de contacte de la tasca en cas que sigui necessari.
 - **Mètode i horari de contacte**: Horari de contacte i el mètode preferit de l'operari.
 
-Dades Tècniques
+Dades tècniques
 
 Informació principal
 
