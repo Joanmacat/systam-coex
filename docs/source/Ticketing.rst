@@ -3,7 +3,7 @@ Ticketing
 
 .. _Overview:
 
-#Què és el ticketing?
+Què és el ticketing?
 ------------
 
 En aquesta secció podrem veure tota la gestió de tíquets. Podrem crear, modificar i/o editar tíquets a part de reobrir-ne.
@@ -33,9 +33,7 @@ A més a més cada tíquet permet visualitzar les següents columnes:
 - **Fitxers adjunts**: permet adjuntar fitxers com fotografies i documents importants per a la tasca.
 - **Ubicació**: Indica la ubicació on s'ha dut a terme la tasca.
 
-#Gestió de tíquets
-
-##Dades Generals
+Dades Generals
 ------------
 En aquesta secció podrem gestionar tots els tíquets amb la possibilitat de crear-los i modificar-los. És important remarcar que els tíquets no es poden eliminar, només tancar o cancelar.
 
@@ -58,3 +56,33 @@ Els tíquets necessiten un procediment. El procediment normal requereix que el t
 - **Descripció ampliada**: Permet ampliar la descripció del tíquet i afegir-ne més detalls.
 - **Persona de contacte**: Indica la persona de contacte de la tasca en cas que sigui necessari.
 - **Mètode i horari de contacte**: Horari de contacte i el mètode preferit de l'operari.
+
+Dades Tècniques
+
+Informació principal
+
+Les dades tècniques ens permeten indicar aquelles dades de contacte i data d'inici prevista del tícket, juntament amb informació addicional del tíquet.
+
+- **Data d'inici prevista**: 
+- **Origen**: Permet ampliar la descripció del tíquet i afegir-ne més detalls.
+- **Motiu d'origen**: Indica la persona de contacte de la tasca en cas que sigui necessari.
+- **Nom**: Telègon de contacte de la persona encarregada al departament.
+- **Telèfon**: Telèfon de contacte de la persona encarregada al departament.
+- **Departament**: Nom del departament. 
+
+Operaris addicionals
+
+En aquesta secció apareixen els operaris addicionals que participaran en la tasca. Aquests operaris s'afegeixen més endavant als fulls de treball.
+
+Cost total
+
+Aquí es calcula el cost total que ha suposat la tasca. Aquests preus es calculen a partir dels fulls de treball generats a l'aplicació.
+
+Fitxers adjunts
+
+Permet entrar documents i imatges relacionades amb la tasca.
+
+Actius relacionats
+
+S'hi mostren els actius que s'han relacionat amb la tasca. Aquestes dades s'entren quan el tíquet està més avançat. Per veure-ho més visiteu la secció [link]TIQUET WORKFLOW.
+
