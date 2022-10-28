@@ -85,4 +85,3 @@ Permet entrar documents i imatges relacionades amb la tasca.
 Actius relacionats
 
 S'hi mostren els actius que s'han relacionat amb la tasca. Aquestes dades s'entren quan el tíquet està més avançat. Per veure-ho més visiteu la secció [link]TIQUET WORKFLOW.
-
