@@ -58,7 +58,7 @@ Els tíquets necessiten un procediment. El procediment normal requereix que el t
 - **Mètode i horari de contacte**: Horari de contacte i el mètode preferit de l'operari.
 
 Dades tècniques
-
+------------
 Informació principal
 
 Les dades tècniques ens permeten indicar aquelles dades de contacte i data d'inici prevista del tícket, juntament amb informació addicional del tíquet.
@@ -71,17 +71,17 @@ Les dades tècniques ens permeten indicar aquelles dades de contacte i data d'in
 - **Departament**: Nom del departament. 
 
 Operaris addicionals
-
+------------
 En aquesta secció apareixen els operaris addicionals que participaran en la tasca. Aquests operaris s'afegeixen més endavant als fulls de treball.
 
 Cost total
-
+------------
 Aquí es calcula el cost total que ha suposat la tasca. Aquests preus es calculen a partir dels fulls de treball generats a l'aplicació.
 
 Fitxers adjunts
-
+------------
 Permet entrar documents i imatges relacionades amb la tasca.
 
 Actius relacionats
-
+------------
 S'hi mostren els actius que s'han relacionat amb la tasca. Aquestes dades s'entren quan el tíquet està més avançat. Per veure-ho més visiteu la secció [link]TIQUET WORKFLOW.
