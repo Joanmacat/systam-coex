@@ -3,7 +3,7 @@ Ticketing
 
 .. _Overview:
 
-Què és el ticketing?
+#Què és el ticketing?
 ------------
 
 En aquesta secció podrem veure tota la gestió de tíquets. Podrem crear, modificar i/o editar tíquets a part de reobrir-ne.
@@ -33,7 +33,9 @@ A més a més cada tíquet permet visualitzar les següents columnes:
 - **Fitxers adjunts**: permet adjuntar fitxers com fotografies i documents importants per a la tasca.
 - **Ubicació**: Indica la ubicació on s'ha dut a terme la tasca.
 
-Gestió de tíquets
+#Gestió de tíquets
+
+##Dades Generals
 ------------
 En aquesta secció podrem gestionar tots els tíquets amb la possibilitat de crear-los i modificar-los. És important remarcar que els tíquets no es poden eliminar, només tancar o cancelar.
 
@@ -43,7 +45,16 @@ Els tíquets necessiten un procediment. El procediment normal requereix que el t
 [FOTO]
 
 - **Usuari sol·licitant**: L'usuari que sol·licita el tíquet. S'emplena automàticament amb el teu usuari.
-- **Servei actiu**: Ens permet seleccionar l'actiu, en aquest cas la carretera, vehicle o el que s'hagi utilitzat
-
-
-
+- **Servei actiu**: Ens permet seleccionar l'actiu, en aquest cas la carretera, vehicle o el que s'hagi utilitzat.
+- **Data/hora inici tiquet**: S'emplena automàticament, es la data i hora d'inici del tíquet.
+- **Tipus de tíquet**: Indica el tipus principal de tíquet.
+- **Categoria 1**: Indica la categoria principal per a filtrar el tíquet.
+- **Categoria 2**: Indica la subcategoria principal per a filtrar el tíquet principal.
+- **Categoria 3**: Indica la segona subcategoria principal per a filtrar la subcategoria anterior.
+- **Categoria 4**: Indica la segona subcategoria principal per a filtrar la subcategoria anterior.
+- **Motiu**: Indica el motiu d'obertura del tíquet.
+- **Prioritat nivell 1**: Indica la prioritat del tíquet si es ALTA, MITJA o BAIXA.
+- **Descripció**: Indica la descripció de la tasca. Aquest camp permet fer una descripció ràpida. És obligatori.
+- **Descripció ampliada**: Permet ampliar la descripció del tíquet i afegir-ne més detalls.
+- **Persona de contacte**: Indica la persona de contacte de la tasca en cas que sigui necessari.
+- **Mètode i horari de contacte**: Horari de contacte i el mètode preferit de l'operari.
