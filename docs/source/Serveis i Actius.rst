@@ -93,6 +93,7 @@ Així doncs, per a programar un tíquet, polsem el botó **[+]** i s’obrirà u
 - **Codi tasca planificada**: Introduïr un codi de tasca planificada. Aquest codi ha de ser un codi que segueixi un ordre. Tant com per TALLER i VIALS, haurem d'entrar els codis utilitzant el següent format:
 -- ITV-XXX (Per a taller mecànic).
 -- VIALS-XXX (Per a tasques programades de vials).
+
 - **DESCRIPCIÓ DE TASCA**: Descripció breu de la tasca.
 - **CENTRE DE COST**: 
 - **PROVEÏDOR**: Proveïdor involucrat en la tasca.
