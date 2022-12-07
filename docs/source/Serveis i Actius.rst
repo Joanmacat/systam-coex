@@ -84,10 +84,12 @@ Planificació de tasques
 ------------
 
 Aquest apartat permet planificar les tasques, tant de TALLER com de VIALS. Aquesta secció permet poder definir una tasca nova de programació ordinària. Únicament es possible planificar tasques en dos tipus de tíquets:
+
 - **Conservació ordinària - Programades - VIALS**.
 - **Revisións mecàniques**.
 
 Així doncs, per a programar un tíquet, polsem el botó **[+]** i s’obrirà una nova pantalla on podrem afegir-ne una de nova. Per a cada tasca programada s'ha d'entrar la següent informació.
+
 - **Codi tasca planificada**: Introduïr un codi de tasca planificada. Aquest codi ha de ser un codi que segueixi un ordre. Tant com per TALLER i VIALS, haurem d'entrar els codis utilitzant el següent format:
 -- ITV-XXX (Per a taller mecànic).
 -- VIALS-XXX (Per a tasques programades de vials).
