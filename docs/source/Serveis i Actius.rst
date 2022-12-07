@@ -103,7 +103,7 @@ Així doncs, per a programar un tíquet, polsem el botó **[+]** i s’obrirà u
 - **PRIORITAT**: Seleccionar la prioritat del servei (ALTA, BAIXA o MITJA).
 - **ESTAT**: Seleccionar l'estat actual: Operatiu, pendent de recepcionar, recepcionat.
 
-Contractes de manteniment.
+Contractes de manteniment
 ------------
 
 En aquesta secció s'entren tots els contractes de manteniment disponibles. A més a més, disponibles per a la seva consulta.
