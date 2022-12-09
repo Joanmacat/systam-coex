@@ -91,8 +91,9 @@ Aquest apartat permet planificar les tasques, tant de TALLER com de VIALS. Aques
 Així doncs, per a programar un tíquet, polsem el botó **[+]** i s’obrirà una nova pantalla on podrem afegir-ne una de nova. Per a cada tasca programada s'ha d'entrar la següent informació.
 
 - **Codi tasca planificada**: Introduïr un codi de tasca planificada. Aquest codi ha de ser un codi que segueixi un ordre. Tant com per TALLER i VIALS, haurem d'entrar els codis utilitzant el següent format:
--- ITV-XXX (Per a taller mecànic).
--- VIALS-XXX (Per a tasques programades de vials).
+
+- ITV-XXX (Per a taller mecànic).
+- VIALS-XXX (Per a tasques programades de vials).
 
 - **DESCRIPCIÓ DE TASCA**: Descripció breu de la tasca.
 - **CENTRE DE COST**: 
@@ -106,4 +107,33 @@ Així doncs, per a programar un tíquet, polsem el botó **[+]** i s’obrirà u
 Contractes de manteniment
 ------------
 
-En aquesta secció s'entren tots els contractes de manteniment disponibles. A més a més, disponibles per a la seva consulta.
+**Dades generals de contacte**
+
+En aquesta secció s'entren tots els contractes de manteniment disponibles. Per a afegir un nou contracte de manteniment, hem de polsar el botó **[+]** i afegirem la següent informació.
+
+- **NUM. CONTRACTE**: Número de contracte amb l'empresa subministradora / col·laboradora.
+- **DESCRIPCIÓ**: Descripció breu del contracte.
+- **DESCRIPCIÓ AMPLIADA**: Descripció ampliada i detallada de la naturalesa del contracte.
+- **REFERÈNCIA INTERNA**: Codi de referència interna que identifica el contracte.
+- **PROVEïDOR**: Nom del proveïdor.
+- **TIPUS DE CONTRACTE**: Detall breu del tipus de contracte.
+- **NÚM. FACTURA**: Número de factura associat al contracte.
+- **IMPORT MANTENIMENT**: Import del manteniment del contracte.
+- **TELÈFON**: Telèfon de contacte per a assistència de manteniment. 
+- **ESTAT**: Seleccionar l'estat actual: Operatiu, pendent de recepcionar, recepcionat.
+- **GENERAR TÍQUET DE PREAVÍS**: Permet generar un tíquet de preavís del contracte de manteniment.
+
+**Períodes del contracte**
+
+En aquesta secció podem establir tota la informació relacionada als períodes de contracte que tinguem amb qualsevol empresa externa. Cada entrada comptarà amb la següent informació que s'ha d'emplenar.
+
+- **VIGÈNCIA**: Número de contracte amb l'empresa subministradora / col·laboradora.
+- **DESCRIPCIÓ**: Descripció breu del contracte.
+- **HORES PREVISTES DEL PERÍODE**: Hores totals previstes per al període escollit.
+- **LABORABLES**: S'indiquen les hores laborables per trams, quines són les que s'han d'invertir per a les tasques del contracte.
+- **FESTIUS**: S'indiquen les hores festives per trams, quines són les que s'han d'invertir per a les tasques del contracte.
+- **TEMPS MÍNIM DE RESPOSTA**: Temps mínim de resposta dels operaris en dies festius.
+- **TEMPS MÀXIM DE RESPOSTA**: Temps màxim de resposta dels operaris en dies festius.
+
+**Rols d'usuari**
+En aquest apartat s'estableixen els rols d'usuari que permeten filtrar i bloquejar l'accés als contractes. Aquí afegirem aquells operaris o encarregats que tindran accés als contractes de manteniment.
